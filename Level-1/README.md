@@ -8,11 +8,11 @@ Commands to reach the first ciphertext in the game.
 
 ## Analysis
 
-->Incorrect distribution of spaces between the words,as there were three distinct single letter words in the cipher text, but ‘I’ and ‘A’ are only single letter words.
-->The frequency of each letter in the ciphertext space was counted using a computer program.
-->No punctuation on the last line and capitalization of the first word, hence the words "Mew awameyt" was shifted to beginning of the ciphertext.
-->Occurrence of different trigraphs and digraphs were counted in the ciphertext.
-->Evert digit(in plaintext) was shifted by 4, hence 8(ciphertext) shifted to 4 and password was found by shifting every number by ‘4’(in reverse order) i.e. 0-> 6 and 3-> 9.
+-> Incorrect distribution of spaces between the words,as there were three distinct single letter words in the cipher text, but ‘I’ and ‘A’ are only single letter words.
+-> The frequency of each letter in the ciphertext space was counted using a computer program.
+-> No punctuation on the last line and capitalization of the first word, hence the words "Mew awameyt" was shifted to beginning of the ciphertext.
+-> Occurrence of different trigraphs and digraphs were counted in the ciphertext.
+-> Evert digit(in plaintext) was shifted by 4, hence 8(ciphertext) shifted to 4 and password was found by shifting every number by ‘4’(in reverse order) i.e. 0-> 6 and 3-> 9.
 -> Use of website : <https://crypto.interactive-maths.com/frequency-analysis-breaking-the-code.html> for counting trigraphs and digraphs.
 ## Maping
 
