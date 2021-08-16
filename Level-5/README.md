@@ -32,15 +32,14 @@ Now, we found each element of this matrix by iterating over all possible values 
 Final Matrices as we found them in above step as follows
 Hence, 
 A = transpose of LINEAR_MATRIX =
-         >  	           	[[84,125, 27, 104, 110, 30, 2, 88],
+          	           	[[84,125, 27, 104, 110, 30, 2, 88],
         			[ 0, 70, 16, 20, 42, 47, 118, 2],
             			[ 0, 0, 43, 24, 1, 28, 1, 94],
             			[ 0, 0, 0,12, 114, 54, 105, 27],
            		  	[ 0, 0, 0, 0,112, 110, 23, 16],
           		  	[ 0, 0, 0, 0, 0,11, 92, 69],
           		 	[ 0, 0, 0, 0, 0, 0,27, 3],
-         		     	[ 0, 0, 0, 0, 0, 0, 0, 38]
-	>			]
+         		     	[ 0, 0, 0, 0, 0, 0, 0, 38]]
 				
 EXPONENT_MATRIX = [17, 105, 36, 67, 88, 52, 19, 14]
 
