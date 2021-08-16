@@ -8,9 +8,9 @@ Commands to reach the ciphertext in the game.
 
 ## Analysis
 
-1.Using the “read” command leads to the ciphertext so we used frequency analysis as a general approach but couldn’t get any understandable plaintext. So we observed we should go back and use other commands to get more information.
-2.Using the “go” command we got some hidden code in “-” and “.”. We recognised it as “Morse Code” and then it was decoded to “SECURITY”.
-3.The paragraph there mentioned to believe in “Play Fair” which indicated the use of the word “SECURITY” as the key for some key based encryption.
+1. Using the “read” command leads to the ciphertext so we used frequency analysis as a general approach but couldn’t get any understandable plaintext. So we observed we should go back and use other commands to get more information.
+2. Using the “go” command we got some hidden code in “-” and “.”. We recognised it as “Morse Code” and then it was decoded to “SECURITY”.
+3. The paragraph there mentioned to believe in “Play Fair” which indicated the use of the word “SECURITY” as the key for some key based encryption.
 4. We observed “SECURITY” can be used as the key for playfair decryption. After using play fair and “SECURITY” as the key we got our plaintext and that’s how we figured out the cryptosystem.
 
 ## Decryption Algorithm
