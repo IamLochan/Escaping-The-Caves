@@ -9,6 +9,6 @@ Assignment 5 - EAEAE<br>
 Assignment 6 - RSA<br>
 
 ## Contributors
-- Lochan Prakash Gupta
 - Shivam Shivanshu
+- Lochan Prakash Gupta
 - Jayesh Sharma
